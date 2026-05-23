@@ -1,0 +1,14 @@
+{
+    "name1": "Игрок",
+    "background_mark": 1,
+    "pos_x": 624,
+    "pos_y": 230,
+    "inventory_picked": 0,
+    "slot_1": 5,
+    "slot_2": 0,
+    "slot_3": 0,
+    "slot_4": 0,
+    "slot_5": 0,
+    "slot_6": 0,
+    "slot_10": 20
+}
